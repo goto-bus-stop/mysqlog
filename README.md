@@ -12,3 +12,14 @@ Nowhere near done so installation currently consists of:
   5. In the DB, find `name = 'base'` in `config` and set the value to your absolute base url *without* trailing slash
 
 You should then be good to go.
+
+# State
+What works:
+
+  * Post listing
+  * Post display + comment listing
+  * Commenting
+
+What does not work:
+
+  * The rest
